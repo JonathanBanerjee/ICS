@@ -1,0 +1,16 @@
+.Upload {
+    text-align: center;
+    display: flex;
+    margin: auto;
+    width: 400px;
+    flex-Wrap: wrap;
+    position: relative;
+    float: center;
+    border: solid red;
+}
+
+#tempImage{
+  position: relative;
+  width: 50%;
+  height: 50%;
+}

@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+}
+
+.nav-links{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  padding-left: 50%;
+  text-decoration: none;
+  color: white;
+  position: relative;
+  top: 45%;
+}
+
+.logo{
+  max-width: 200px;
+  max-height: 100px;
+}
+
+li:hover {
+  text-decoration: underline;
+}

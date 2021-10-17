@@ -1,0 +1,10 @@
+.App {
+    text-align: center;
+}
+
+.signup-button, .Login-submit {
+  padding: 5px 5px 5px 5px;
+  position: relative;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
